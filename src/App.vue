@@ -1,6 +1,7 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <img alt="Web App logo" src="./assets/logo.png">
   <HelloWorld msg="Web App Dosimeter"/>
+  <img alt="Glory to Ukraine!" src="./assets/ua.png">
 </template>
 
 <script>
