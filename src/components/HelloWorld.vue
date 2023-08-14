@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1 href="https://t.me/DosimeterBot">{{ msg }}</h1>
+    <h1><a href="https://t.me/DosimeterBot">{{ msg }}</a></h1>
   </div>
 </template>
 
