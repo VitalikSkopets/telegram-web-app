@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Telegram Bot Dosimeter"/>
+  <HelloWorld msg="Web App Dosimeter"/>
 </template>
 
 <script>
